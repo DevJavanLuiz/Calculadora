@@ -127,7 +127,7 @@ footer p:hover{
     
         .result {
              width: 80%;
-             height: 65%;
+             height: 80%;
          }
           
          .result-calc{
@@ -144,7 +144,6 @@ footer p:hover{
             width: 60px;
             height: 60px;
             background-color: var(--primary-color);
-            background-color: red;
             font-size: 18px;
             margin-left: 7px;
         }
